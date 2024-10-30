@@ -14,3 +14,10 @@ If you are not familiar with Google Colab, please refer to [Google Colab](https:
 ### Workshop Agenda
 
 - 🐍 introduction to pyswmm ecosystem: [intro_to_pyswmm_ecosystem](https://colab.research.google.com/github/abhiramm7/digi-swmm/blob/main/intro_to_pyswmm_ecosystem.ipynb)
+- 👻 bayesian optimization: [bayesian_optimization](https://colab.research.google.com/github/kLabUM/pystorms/blob/master/tutorials/RTC101-BayesianOptimization.ipynb)
+
+#### Additional Resources 
+- ewri workshop: https://github.com/abhiramm7/ewri2023_DigitalWater101, covers pyswmm basics, real-time control, and 
+  timeseries filtering
+- pystorms: https://pystorms.netlify.app, covers the development and evaluation of storm water control control 
+  algorithms using pystorms
