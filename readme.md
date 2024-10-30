@@ -11,4 +11,6 @@ We will use Google Colab for executing these notebooks. You should be signed int
 
 If you are not familiar with Google Colab, please refer to [Google Colab](https://colab.research.google.com).
 
-### Workshop Agenda (In Progress 🏗️)
+### Workshop Agenda
+
+- 🐍 introduction to pyswmm ecosystem: [intro_to_pyswmm_ecosystem](https://colab.research.google.com/github/abhiramm7/digi-swmm/blob/main/intro_to_pyswmm_ecosystem.ipynb)
