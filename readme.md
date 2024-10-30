@@ -14,7 +14,7 @@ If you are not familiar with Google Colab, please refer to [Google Colab](https:
 ### Workshop Agenda
 
 - 🐍 Introduction to PySWMM ecosystem: [Intro to PySWMM Ecosystem](https://colab.research.google.com/github/abhiramm7/digi-swmm/blob/main/intro_to_pyswmm_ecosystem.ipynb)
-- 👻 Bayesian Optimization: [Bayesian Optimization](https://colab.research.google.com/github/kLabUM/pystorms/blob/master/tutorials/RTC101-BayesianOptimization.ipynb)
+- 👻 Bayesian Optimization: [Bayesian Optimization](https://colab.research.google.com/github/abhiramm7/digi-swmm/blob/main/BayesianOptimization.ipynb)
 
 #### Additional Resources 
 - EWRI Workshop: [EWRI 2023 Digital Water 101](https://github.com/abhiramm7/ewri2023_DigitalWater101), covers PySWMM basics, real-time control, and time series filtering
